@@ -1,4 +1,4 @@
-// Renders the Mergington activity list and signup form.
+// Renders the Mergington activity list and signup form, including participant cards.
 document.addEventListener("DOMContentLoaded", () => {
   const activitiesList = document.getElementById("activities-list");
   const activitySelect = document.getElementById("activity");
