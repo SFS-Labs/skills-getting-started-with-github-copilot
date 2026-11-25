@@ -1,4 +1,5 @@
 """High School Management System API for Mergington High School."""
+# Activities are served from an in-memory store for this exercise.
 
 from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
